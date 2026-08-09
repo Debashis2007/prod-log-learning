@@ -1,5 +1,7 @@
 # Use Case: Prod-Log Learning
 
+**YouTube walkthrough:** [Prod Log Learning — System Design #Shorts](https://youtu.be/nUQEHvg3bC4)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -46,6 +48,9 @@ Prod sample (policy-permitting) → redact
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Prod Log Learning — System Design #Shorts](https://youtu.be/nUQEHvg3bC4)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
