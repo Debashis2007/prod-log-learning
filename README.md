@@ -7,7 +7,7 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [08 — Fine-Tuning / Eval Data Pipelines](./08-finetuning-eval-data-pipelines.md)
+**Parent system design:** [08 — Fine-Tuning / Eval Data Pipelines](https://github.com/Debashis2007/prod-log-learning/blob/main/08-finetuning-eval-data-pipelines.md)
 
 ## Users & problem
 
