@@ -1,5 +1,7 @@
 # Use Case: Prod-Log Learning
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Prod Log Learning — System Design #Shorts](https://youtu.be/nUQEHvg3bC4)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
